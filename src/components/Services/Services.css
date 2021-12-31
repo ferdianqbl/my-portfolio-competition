@@ -1,0 +1,63 @@
+#services.services {
+  padding-top: 6.25rem;
+  padding-bottom: 6.25rem;
+}
+
+#services.services .container .row.services-1 {
+  margin-bottom: 5rem;
+}
+
+#services.services .services-heading {
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 3.75rem;
+}
+
+#services.services .services-heading span {
+  background: -webkit-gradient(linear, left top, right top, from(#12CAE5), to(#AB4FC7));
+  background: linear-gradient(90deg, #12CAE5 0%, #AB4FC7 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 992px) {
+  #services.services .services-heading {
+    font-weight: bold;
+    font-size: 1.75rem;
+    line-height: 3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  #services.services .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #services.services .container .row {
+    margin: auto;
+  }
+  #services.services .container .row .col-md-5 {
+    margin-right: 0 !important;
+  }
+  #services.services .container .services-heading {
+    font-weight: bold;
+    font-size: 2.5rem;
+    line-height: 3.75rem;
+    margin-bottom: 3.125rem;
+  }
+  #services.services .container .services-2 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+  }
+}
+
+@media (max-width: 576px) {
+  #services.services .container .services-heading {
+    font-weight: bold;
+    font-size: 1.75rem;
+    line-height: 3rem;
+  }
+}
+/*# sourceMappingURL=Services.css.map */

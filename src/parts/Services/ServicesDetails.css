@@ -1,0 +1,24 @@
+.services-details {
+  margin-bottom: 1.25rem;
+}
+
+.services-details .services-details-body .services-details-title {
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  font-weight: 500;
+  color: #00144C;
+}
+
+.services-details .services-details-body .services-details-text {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #959595;
+}
+
+@media (max-width: 311px) {
+  .services-details .row .col-1.me-4 {
+    margin-right: 0;
+    margin-bottom: 1.875re;
+  }
+}
+/*# sourceMappingURL=ServicesDetails.css.map */

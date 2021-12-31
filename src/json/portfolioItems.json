@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Viralin Website",
+    "desc": "Viralin is a job seeker site built using Bootstrap, PHP, and MySQL. This website is used to bring together virators and merchants. You will get the best offer.",
+    "imgUrl": "images/project-img-viralin.png",
+    "href": "http://viralin.ga/"
+  },
+  {
+    "title": "Helaveria Website",
+    "desc": "Helaveria is an organization website created to help introduce your organization. This is a landing page website that built using Bootstrap and JQuery.",
+    "imgUrl": "images/project-img-helaveria.png",
+    "href": "https://estehjava.github.io/"
+  },
+  {
+    "title": "Terrasearch Indonesia",
+    "desc": "Terrasearch is a consulting company exploration, geotechnical and environmental. This website created using Bootstrap, JQuery and PHP.",
+    "imgUrl": "images/project-img-terrasearch.png",
+    "href": "https://terrasearchindonesia.com/"
+  },
+  {
+    "title": "Sambilanesia Website",
+    "desc": "Sambilanesia is a website that I developed using CSS Native and Vanilla JavaScript to assigned the Dicoding course exam. The course name is \"Belajar Dasar Pemrograman Web\".",
+    "imgUrl": "images/project-img-sambilanesia.png",
+    "href": "https://ferdianqbl.github.io/Sambilanesia/"
+  },
+  {
+    "title": "BookShelf App",
+    "desc": "BookShelf App is a simple website application that I developed to assigned the Dicoding course exam. The course name is \"Belajar Membuat Front-End Web untuk Pemula\".",
+    "imgUrl": "images/project-img-bookshelf.png",
+    "href": "https://ferdianqbl.github.io/myBookshelf%20app/"
+  }
+]

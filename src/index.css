@@ -1,6 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(181deg, #C400FF 0%, #00DEFF 100%);
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(181deg, #BA00ED 0%, #00C9E8 100%);
+}
+
+::-webkit-scrollbar-track {
+  background: #00144C;
+  border-radius: 0;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: Poppins, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -10,4 +31,24 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1.section-heading {
+  background: #12CAE5;
+  background: -webkit-linear-gradient(to right, #12CAE5 39%, #AB4FC7 62%);
+  background: -moz-linear-gradient(to right, #12CAE5 39%, #AB4FC7 62%);
+  background: linear-gradient(to right, #12CAE5 39%, #AB4FC7 62%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: .5rem;
+  display: inline-block;
+}
+
+@media(max-width: 576px) {
+  h1.section-heading {
+    font-size: 1.75rem;
+  }
 }

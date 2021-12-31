@@ -1,0 +1,62 @@
+[
+  {
+    "title": "React Js",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-reactjs.png"
+  },
+  {
+    "title": "Node Js",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-nodejs.png"
+  },
+  {
+    "title": "JavaScript",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-javascript.png"
+  },
+  {
+    "title": "Bootstrap",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-bootstrap.png"
+  },
+  {
+    "title": "PHP",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-php.png"
+  },
+  {
+    "title": "JQuery",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-jquery.png"
+  },
+  {
+    "title": "CSS",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-css.png"
+  },
+  {
+    "title": "HTML",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-html.png"
+  },
+  {
+    "title": "MySQL",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-mysql.png"
+  },
+  {
+    "title": "Figma",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-figma.png"
+  },
+  {
+    "title": "C++",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-c++.png"
+  },
+  {
+    "title": "C",
+    "desc": "20 Projects",
+    "imgUrl": "images/experiences-c.png"
+  }
+]
