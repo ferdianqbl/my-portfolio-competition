@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-competition/static/css/main.1ebec1f9.css",
+    "main.js": "/my-portfolio-competition/static/js/main.5d3bb4c6.js",
+    "static/js/787.4e3c4176.chunk.js": "/my-portfolio-competition/static/js/787.4e3c4176.chunk.js",
+    "index.html": "/my-portfolio-competition/index.html",
+    "main.1ebec1f9.css.map": "/my-portfolio-competition/static/css/main.1ebec1f9.css.map",
+    "main.5d3bb4c6.js.map": "/my-portfolio-competition/static/js/main.5d3bb4c6.js.map",
+    "787.4e3c4176.chunk.js.map": "/my-portfolio-competition/static/js/787.4e3c4176.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebec1f9.css",
+    "static/js/main.5d3bb4c6.js"
+  ]
+}
